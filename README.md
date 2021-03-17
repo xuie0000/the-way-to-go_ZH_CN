@@ -52,6 +52,7 @@
 
 - 您可以选择以下方式阅读本书：
   - [GitHub在线](./eBook/preface.md)
+  - [**新增**Gitbook在线](https://xuie0000.gitbook.io/the-way-to-go-zh-cn/readme)
 
 想读书的人，不会找不到 [目录](eBook/directory.md) :)
 
